@@ -1,3 +1,4 @@
 # Commit Catch
-## Jan 17, 2022
+## January 17th, 2022
 - This is my first bullet!!!
+- This is my second bullet!!!
